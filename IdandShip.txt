@@ -1,0 +1,11 @@
+Algorithm :
+
+1. Store letter class id and string class description of given id.
+
+2. Take total no of test cases from the user check its validity .
+
+3. Take the letter class Id of ship and check with which class it matches.
+
+4. If the class Id does not matches with any show the message for same otherwise show the class name.
+
+5. Repeat steps 3 and 4 for no of test cases.

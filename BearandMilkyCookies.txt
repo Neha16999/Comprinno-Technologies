@@ -1,0 +1,15 @@
+Algorithm :
+
+1. Take total no of test cases from the user and check its validity.
+
+2. Take next input which is no of min and check its validity.
+
+3. Creating a function which will check whether lemak is allowed or not depending on following conditions.
+
+    a. If no of min is 1 and limak eats cookie then he didnt followed his parents instruction.
+
+    b. If no of min is 1 and limak drinks milk then he followed his parents instruction.
+
+    c. If limak eats 2 cookies continuosly then he didnt followed his parents instruction.   
+
+4. Repeat steps 2 and 3 for total number of test cases.

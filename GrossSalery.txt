@@ -1,0 +1,11 @@
+Algorithm :
+
+1. Take total no of test cases from the user and check its validity.
+
+2. If salery is less than 1500 then HRA is 10% of salery and DA is 90% of salery.
+
+3. If salary is 1500 or greater then HRA is 500Rs and DA is 98% of salary.
+
+4. calculate gross salery as basic salery + HRA + DA
+
+5. Repeat steps  2, 3 and 4 for no of test cases.
