@@ -1,0 +1,14 @@
+Algorithm :
+
+1. Take total no of test cases from the user check its validity.
+
+2. Find the maximum and minimum no of legs in each cases.
+i. To find max no of legs = 4 * no of cat + 4 * no of dog 
+
+ii. To find min no of legs =  4 * no of dog
+
+3. check if no of legs is equal to no in its range. If equal print yes otherwise print no.
+
+4. Repeat steps 2 and 3 for no of test cases.
+
+
